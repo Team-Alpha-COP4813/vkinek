@@ -15,7 +15,7 @@
         <header>
             <img id="logo" alt="vKinek logo" src="img/vKinek-logo.png">
             <span id="motto">where virtual meetups lead to improved skills and real connections</span>
-            <div class="button">Signup</div><div class="button">Login</div>
+            <div class="button"><a href="signup.jsp">Signup</a></div><div class="button"><a href="login.jsp">Login</a></div>
         </header>
         <br><br><br>
         <hr>
@@ -45,8 +45,8 @@
                 <img alt="Twitter logo" src="img/Twitter_Social_Icon_Rounded_Square_Color.jpg" height="35px" id="twtr"><span id="twtrtext">@vKinek</span><br>
             </div>
             <div id="sitelinks">
-                Sitemap<br>
-                Homepage<br>
+                <a href="sitemap.jsp">Sitemap</a><br>
+                <a href="index.jsp">Homepage</a><br>
                 About Us<br>
                 Contact Us<br>
                 Privacy Policy<br>

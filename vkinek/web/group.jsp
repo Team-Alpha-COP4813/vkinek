@@ -1,6 +1,7 @@
 <%-- 
-    Document   : login
-    Created on : Oct 27, 2019, 10:59:40 AM
+    Document   : group
+    Created on : Nov 17, 2019, 12:57:20 PM
+    Author     : ash
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -8,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Login Page</title>
+        <title>Group page member view</title>
     </head>
     <body>
     </body>
