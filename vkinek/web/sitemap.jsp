@@ -17,7 +17,7 @@
         <p><a href="index2.jsp">Homepage 2</a></p>
         <p><a href="login.jsp">Login page</a></p>
         <p><a href="signup.jsp">Signup page</a></p>
-        <p><a href="forgot1.jsp">Forgot password</a></p>
+        <p><a href="forgotpassword.html">Forgot password</a></p>
         <p><a href="forgot2.jsp">Forgot username</a></p>
         <p><a href="profile.jsp">User profile page</a></p>
         <p><a href="communities.jsp">Communities page</a></p>
