@@ -12,7 +12,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Forgot Password</title>
     </head>
     <body>
     <% String username = request.getParameter("username"); %>
@@ -32,7 +32,7 @@
 
           <%}else {%>
           <h1> <% out.print( "Please enter a valid username"); } %></h1>
-          <a  href="index.html">Retry Login</a><br>
+          <a  href="forgotpassword.html">Retry Login</a><br>
           
           
           
