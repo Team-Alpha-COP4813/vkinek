@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link rel="stylesheet" type="text/css" href="stylesheet.css">
+        <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
         <title>JSP Page</title>
     </head>
     <body>
@@ -35,13 +35,13 @@
                 style="width: 90px; height: 90px">
             <br>
             <br>
-            Name: Adam Morales
+            Name: 
             <br>
             <br>
-            Location: Panama City, FL
+            Location: 
             <br>
             <br>
-            Gender: Male
+            Gender: 
             <br>
             <br>
         </div>
