@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
+
+div.head:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+div.name {
+    font-family: "Kaushan Script";
+    font-size: 60px;
+    padding-top: 20px;
+    padding-left: 30px;
+    width:20%;
+    float: left;
+}
+
+div.greeting {
+    font-family: Arial;
+    font-size: 15px;
+    width:70%;
+    padding-top: 90px;
+    padding-left: 30px;
+    float: right;
+}
+
+div.menu {
+    border-style: solid;
+    border-color: black;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 5px;
+    border-top-width: 5px;
+    font-family: Arial;
+    font-size: 20px;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+   
+}
+
+li {
+    float: left;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 70px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: gray;
+}
+
+div.info {
+    display: inline-block;
+    font-family: Arial;
+    font-size: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    height: 200px;
+    width: 150px;
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-top: 80px;
+    margin-left: 120px;
+}
+
+div.message {
+    display: inline-block;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 80px;
+    margin-right: 200px;
+    float: right;
+}
+
+a.link {
+   font-family: Arial;
+   font-size: 10px;
+   text-align: center;
+   color: black;
+}
+
+a.link:hover {
+    color: gray;
+}
+
+div.video {
+    display: inline-block;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 80px;
+    margin-left: 40px;
+    float: left;
+    overflow: auto;
+}
+
+div.communities {
+    display: inline-block;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 80px;
+    margin-right: 40px;
+    float: right;
+    overflow: auto;
+}
+
+div.contents {
+    font-family: Arial;
+    border-style: solid;
+    border-color: black;
+    border-top-width: 4px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    height: 450px;
+}
+
+div#welcome {
+    font-size: 20px;
+    font-family: Arial;
+    height: 20px;
+}
+
+div.midleft {
+    width: 50%;
+    height: 450px;
+    border-style: solid;
+    border-color: black;
+    border-top-width: 0px;
+    border-right-width: 4px;
+    border-left-width: 0px;
+    border-bottom-width: 0px;
+    padding-left:  2cm;
+    padding-top: 1cm;
+    float: left;
+}
+
+div#heading {
+    font-size: 15px;
+    font-family: Arial;
+    padding-top: 0px;
+    height: 20px;
+}
+
+div#list {
+    font-family: Arial;
+    padding-top: 0px;
+}
+
+div.midright {
+    width: 40%;
+    border-left-width: 0px;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    float: right;
+    text-align: center;
+    padding-right: 20px;
+}
+
+div#signup {
+    font-size: 20px;
+    font-family: Arial;
+    border: none;
+}
+
+div#form {
+    font-family: Arial;
+    padding-top: 1cm;
+    text-align: right;
+}
+
+table {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    height: 200px;
+    border: 1px solid white;
+    width: 100%
+}
+
+td#left {
+    padding-left: 60px;
+    width: 150px;
+}
+
+td#lmiddle {
+    text-align: left;
+    padding-top: 10px;
+    width: 200px;
+    border-right-color: white;
+}
+
+td#rmiddle {
+    padding-left: 80px;
+    border-right-color: white;
+}
