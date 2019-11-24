@@ -1,0 +1,202 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2019, 3:27:30 PM
+    Author     : pure_
+*/
+
+body{
+     background-image: url("img/Phy2.jpg");
+}
+#header1{
+     border-bottom: solid black;
+     position: relative;
+     bottom: 80px;
+     background-color: white;
+   
+    
+}
+#header{
+       
+        position: relative;
+        top: 20px;
+        
+}
+
+#headerText {
+    position: relative;
+    left: 4.5in;
+    top: 20px;
+    font-family: arial;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    
+    
+}
+#headerLogo{
+    vertical-align: text-bottom;
+    position: relative;
+    top: 60px;
+    padding-right: 2in;
+    left: 20px;
+    
+}
+
+#HeyUser{
+background-color: white;
+color: black;
+font-size: 18px;
+position: relative;
+left: 13in;
+bottom: 30px;
+}
+
+#ContentLeft{
+    position: relative;
+    top: 10px;
+    left: 40px;
+
+   
+}
+
+#Physics{
+    position: relative;
+    float: left;
+    height: 2in;
+    width: 2in;
+}
+
+#CurrentMems{
+    position: relative;
+    top: 2in;
+    float: left;
+    right: 2in;
+    height: 2in;
+    width: 2in;
+}
+#Community{
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    left: 2.5in;
+    //margin-left: 3in;
+    margin-right: 3in;
+    position: relative;
+    bottom: 30px;
+    background-color: white;
+    
+}
+
+#About{
+    font-family: arial;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    border: solid black;
+    margin-left: 3in;
+    margin-right: 3in;
+    position: relative;
+    bottom: 30px;
+    padding-top: 3in;
+    background-image: url("img/Phy1.jpg")
+    
+}
+
+#AbText{
+    position: relative;
+    bottom: 2in;
+    background-color: white;
+}
+
+#ContentRight{
+    position: relative;
+    float: right;
+        bottom: 4.8in;
+        right: 30px;
+}
+
+#CommContact{
+  height: 4in;
+  width: 2in;
+
+}
+#GroupText{
+       font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    bottom: 4.15in;
+    left: 2.1in;
+    background-color: white;
+}
+footer {
+    background-color: black;
+    color: white;
+    height: 2.4in;
+    position: relative;
+   
+}
+
+#social span {
+    position: relative;
+   
+}
+
+#yttext {
+    margin-left: 7px;
+    bottom: 15px;
+}
+
+#igtext {
+    bottom: 20px;
+}
+
+#twtrtext {
+    margin-left: 10px;
+    bottom: 15px;
+}
+#yt {
+    padding-left: 5px;
+}
+
+#twtr {
+    padding-left: 7px;
+}
+
+#sitelinks{
+    position: relative;
+     left: 2in;
+     bottom: 10px;
+     padding-right: 2in;
+
+}
+
+#social{
+    position: relative;
+    left: 1in;
+     bottom: 10px;
+     padding-right: 2.1in;
+}
+#contactinfo{
+    position: relative;
+     left: 3in;
+     bottom: 50px;
+}
+#social, #sitelinks {
+    
+    border-right: solid white;
+    
+   
+}
+#social, #sitelinks, #contactinfo {
+    display: inline-block;
+    padding-left: 100px;
+    padding-bottom: 25px;
+    font-family: arial;
+    font-size: 16px;
+    font-weight: bold;
+}
