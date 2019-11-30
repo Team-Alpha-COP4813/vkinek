@@ -18,7 +18,7 @@
          <div id ="header">
             
         <div id="headerLogo">              
-        <img id = "logo" src="img/vKinek-logo.png" alt=""/>
+            <a href="index2.jsp"><img id = "logo" src="img/vKinek-logo.png" alt=""/></a>
         </div>
 
             <div id ="headerText">

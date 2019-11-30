@@ -12,7 +12,7 @@
         <script src="https://apis.google.com/js/platform.js" async defer></script>
         <meta name="google-signin-client_id" content="414229607458-rp13flnlobosi4jse0fu53mt57v1a3e5.apps.googleusercontent.com">
         <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
-        <title>JSP Page</title>
+        <title>Login</title>
     </head>
     <body>
       <div class="head">
@@ -94,17 +94,17 @@
         <table>
             <tr>
                 <td id="left">
-                    <img src="instagram.jpg" alt='Instagram'
+                    <img src="img/instagram.jpg" alt='Instagram'
                          style='width: 30px; height: 30px'>
                     <strong>Instagram</strong> 
                 
                     <br style="line-height: 30px">
-                    <img src="youtube.jpg" alt='Youtube'
+                    <img src="img/youtube.jpg" alt='Youtube'
                          style='width: 30px; height: 30px'>
                     <strong>Youtube</strong>
                 
                     <br style="line-height: 30px">
-                    <img src="twitter.jpg" alt='Twitter'
+                    <img src="img/twitter.jpg" alt='Twitter'
                          style='width: 30px; height: 30px'>
                     <strong>Twitter</strong>
                 </td>

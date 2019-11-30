@@ -24,6 +24,6 @@
         <p><a href="datascience.jsp">Data Science member view page</a></p>
         <p><a href="biology.jsp">Biology member view page</a></p>
         <p><a href="nonmember.html">Meeting Group page (non-member view)</a></p>
-        <p><a href="chat.jsp">Chat API</a></p>
+        <p><a href="chat.html">Chat API</a></p>
     </body>
 </html>

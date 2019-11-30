@@ -13,7 +13,7 @@
     </head>
     <body>
         <header>
-            <img id="logo" alt="vKinek logo" src="img/vKinek-logo.png">
+            <a href="index2.jsp"><img id="logo" alt="vKinek logo" src="img/vKinek-logo.png"></a>
             <span id="motto">where virtual meetups lead to improved skills and real connections</span>
             <div class="button2">Hey user<img id="heydownarrow" alt="down arrow" src="img/arrow-down-sign-to-navigate.png" width="15"></div>
             <a href="profile.jsp">
@@ -27,7 +27,7 @@
         <a href="personalfinance.jsp">
         <div id="memcomm">
             <div id="lmemcomm">
-                <img id="logo2" src="img/bank.png" alt="bank">
+                <img id="logo2" src="img/bank.png" alt="bank" width="300px">
             </div>
             <div id="information">
                 <p>
@@ -85,8 +85,8 @@
                 <img alt="Twitter logo" src="img/Twitter_Social_Icon_Rounded_Square_Color.jpg" height="35" id="twtr"><span id="twtrtext">@vKinek</span><br>
             </div>
             <div id="sitelinks">
-                Sitemap<br>
-                Homepage<br>
+                <a href="sitemap.jsp">Sitemap</a><br>
+                <a href="index.jsp">Homepage</a><br>
                 About Us<br>
                 Contact Us<br>
                 Privacy Policy<br>

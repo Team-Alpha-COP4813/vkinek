@@ -10,7 +10,7 @@
     <head>
         <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Signup Page</title>
         
     </head>
     <body>
@@ -145,7 +145,8 @@
                     <a href="sitemap.jsp" style="color: white;
                        text-decoration: none">Sitemap</a>
                     <br style="line-height: 20px">
-                    Homepage
+                    <a href="index.jsp"  style="color: white;
+                       text-decoration: none">Homepage</a>
                      <br style="line-height: 20px">
                     About Us
                     <br style="line-height: 20px">

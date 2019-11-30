@@ -13,7 +13,7 @@
     </head>
     <body>
         <header>
-            <img id="logo" alt="vKinek logo" src="img/vKinek-logo.png">
+            <a href="index.jsp"><img id="logo" alt="vKinek logo" src="img/vKinek-logo.png"></a>
             <span id="motto">where virtual meetups lead to improved skills and real connections</span>
             <div class="button"><a href="signup.jsp">Signup</a></div><div class="button"><a href="login.jsp">Login</a></div>
         </header>

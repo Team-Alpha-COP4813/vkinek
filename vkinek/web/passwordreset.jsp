@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Password Reset Page</title>
     </head>
     <body>
         <h1> We sent a link to the email on file for username ${param.username} </h1>
