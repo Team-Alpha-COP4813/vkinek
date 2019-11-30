@@ -12,5 +12,7 @@
         <title>Chat</title>
     </head>
     <body>
+        <div id="publisher"></div>
+        <div id="subscribers"></div>
     </body>
 </html>
