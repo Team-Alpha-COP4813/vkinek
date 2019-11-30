@@ -29,7 +29,7 @@ public class LoginDao {
         String dblastname="";
         String dbemail=""; 
         
-        String url="jdbc:mysql://localhost:3306/login"; //database connection url string
+        String url="jdbc:mysql://localhost:3306/vKinek"; //database connection url string
         String uname="root"; //database username
         String pass="password"; //database password
         
@@ -39,7 +39,7 @@ public class LoginDao {
             Connection con=DriverManager.getConnection(url,uname,pass); //create connection
             PreparedStatement pstmt=null; //create statement
             
-            pstmt=con.prepareStatement("select * from user  where username=? and password=?"); //sql select query 
+            pstmt=con.prepareStatement("select * from users  where username=? and password=?"); //sql select query 
             pstmt.setString(1,username);
             pstmt.setString(2,password);
              
